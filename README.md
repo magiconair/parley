@@ -1,0 +1,2 @@
+# parley
+KDE Parley Dictionaries
